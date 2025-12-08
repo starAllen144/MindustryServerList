@@ -1,39 +1,39 @@
 [
   {
-    "name": "M-ind Fans",
-    "address": ["47.236.249.154:16567"]
+    "名称": "M-IND风扇",
+    "地址": ["47.236.249.154:16567"]
   },
   {
-    "name": "Maxdustry",
-    "address": ["78.24.219.168:1001", "78.24.219.168:1002", "78.24.219.168:1003", "78.24.219.168:1004"]
+    "名称": "Maxdustry",
+    "地址": ["78.24.219.168:1001", "78.24.219.168:1002", "78.24.219.168:1003", "78.24.219.168:1004"]
   },
   {
-    "name": "gods field",
-    "address": ["mdt.shenyugame.cn:20524"]
+    "名称": "神域",
+    "地址": ["mdt.shenyugame.cn:20524"]
   },
   {
-    "name": "Abyss Icefire",
-    "address": ["9666.fun:18564"]
+    "名称": "深渊冰火",
+    "地址": ["9666.fun:18564"]
   },
   {
-    "name": "DELTA",
-    "address": ["45.61.49.88:2500", "45.61.49.88:7500"]
+    "名称": "DELTA",
+    "地址": ["45.61.49.88:2500", "45.61.49.88:7500"]
   },
   {
-    "name": "MEIQIU",
-    "address": ["mindustry.fun", "t1.mindustry.fun", "t2.mindustry.fun"]
+    "名称": "美秋",
+    "地址": ["mindustry.fun", "t1.m industry.fun", "t2.m industry.fun"]
   },
   {
-    "name": "Mindustry Tool",
-    "address": ["server.mindustry-tool.com:10000", "server.mindustry-tool.com:10001", "server.mindustry-tool.com:10002", "server.mindustry-tool.com:10003", "server.mindustry-tool.com:10004", "server.mindustry-tool.com:10005", "server.mindustry-tool.com:10006", "server.mindustry-tool.com:10007", "server.mindustry-tool.com:10008", "server.mindustry-tool.com:10009", "server.mindustry-tool.com:10010"]
+    "名称": "M工业工具",
+    "地址": ["server.mindustrial-tool.com:10000", "server.mindustrial-tool.com:10001", "server.mindustrial-tool.com:10002", "server.mindustrial-tool.com:10003", "server.mindustrial-tool.com:10004", "server.mindustrial-tool.com:10005", "server.mindustrial-tool.com:10006", "server.mindustrial-tool.com:10007", "server.mindustrial-tool.com:10008", "server.mindustrial-tool.com:10009", "server.mindustrial-tool.com:10010"]
   },
   {
-    "name": "IndustryCats",
-    "address": ["80.74.28.57:55072", "80.74.28.57:7623"]
+    "名称": "行业猫",
+    "地址": ["80.74.28.57:55072", "80.74.28.57:7623"]
   },
   {
-    "name": "SpaceCats",
-    "address": ["64.188.124.25:6567", "64.188.124.25:6568", "64.188.124.25:6569", "64.188.124.25:6570", "64.188.124.25:6571"]
+    "名称": "太空猫",
+    "地址": ["64.188.124.25:6567", "64.188.124.25:6568", "64.188.124.25:6569", "64.188.124.25:6570", "64.188.124.25:6571"]
   },
   {
     "name": "Tendhost",
@@ -224,5 +224,9 @@
   {
     "name": "LMSS",
     "address": ["lucasmindustry.ddns.net:33399"]
+  }
+  {
+    "name": "Bwbsolo",
+    "address": ["play.simpfun.cn:16678"]
   }
 ]
